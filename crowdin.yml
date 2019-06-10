@@ -1,0 +1,5 @@
+files:
+  - source: /**/*.plist
+    translation: /Localization/%locale%/**/%original_file_name%
+  - source: /**/*.storyboard
+    translation: /Local/%locale%/**/%original_file_name%
